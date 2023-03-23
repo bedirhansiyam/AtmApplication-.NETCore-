@@ -55,13 +55,8 @@ class Program
                 break;
             }
         } while (control == false);
-
-        User mainUser = new User();
-        foreach (var user in _users)
-        {
-            if(user.Id == id)
-                mainUser = user;
-        }
+        
+        User mainUser = _users.FirstOrDefault(x => x.Id == id);
 
         selected = -1;
         int amount;
