@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1b753ef2-0108-4c42-a817-4f65b13ca1c5",
+    "fullName": "Bedirhan Siyam",
+    "username": "bedirhan",
+    "password": "123",
+    "accountNumber": "987654",
+    "balance": 600
+  },
+  {
+    "id": "7e8125ac-706c-4b33-9a30-c0c96bdd85c6",
+    "fullName": "Addie Spencer",
+    "username": "addie",
+    "password": "123",
+    "accountNumber": "222222",
+    "balance": 7050
+  },
+  {
+    "id": "a83aa2fb-c4cb-4fc8-ae6d-404078709014",
+    "fullName": "Whitney Lin",
+    "username": "whitney",
+    "password": "123",
+    "accountNumber": "333333",
+    "balance": 1150
+  },
+  {
+    "id": "5cd74200-19d4-4aaa-8d55-bff44a79fc8a",
+    "fullName": "Hasan Doherty",
+    "username": "hasan",
+    "password": "123",
+    "accountNumber": "444444",
+    "balance": 8750
+  },
+  {
+    "id": "6b648940-6f2e-4296-af3a-eb1af38e95cb",
+    "fullName": "Bronwyn Nichols",
+    "username": "bronwyn",
+    "password": "123",
+    "accountNumber": "555555",
+    "balance": 3750
+  },
+  {
+    "id": "7a3fd4c9-eeee-4212-953e-390e127166ab",
+    "fullName": "Jon Perry",
+    "username": "jon",
+    "password": "123",
+    "accountNumber": "777777",
+    "balance": 1250
+  },
+  {
+    "id": "088b7240-c865-470a-9637-3cca27db0d89",
+    "fullName": "Murray Houston",
+    "username": "mur123",
+    "password": "123",
+    "accountNumber": "777777",
+    "balance": 800
+  },
+  {
+    "id": "5ce1a7e9-f3dd-42d3-9a31-a2f4830e15dd",
+    "fullName": "Sadia Wiggins",
+    "username": "sadia123",
+    "password": "123",
+    "accountNumber": "999999",
+    "balance": 3250
+  }
+]

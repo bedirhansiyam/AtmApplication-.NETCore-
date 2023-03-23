@@ -1,0 +1,10 @@
+(23/03/2023 13:53:57) - Wrong login attempt.
+(23/03/2023 14:04:40) - Wrong login attempt.
+(23/03/2023 14:06:52) - Addie Spencer withdrew $450.
+(23/03/2023 15:03:05) - Hasan Doherty transferred $1250 to Bronwyn Nichols
+(23/03/2023 15:06:06) - Murray Houston deposited $1500 in cash.
+(23/03/2023 15:06:19) - Murray Houston withdrew $250.
+(23/03/2023 15:06:48) - Murray Houston transferred $450 to Whitney Lin
+(23/03/2023 15:22:06) - Sadia Wiggins deposited $5000 in cash.
+(23/03/2023 15:22:36) - Sadia Wiggins withdrew $500.
+(23/03/2023 15:23:13) - Sadia Wiggins transferred $1250 to Jon Perry

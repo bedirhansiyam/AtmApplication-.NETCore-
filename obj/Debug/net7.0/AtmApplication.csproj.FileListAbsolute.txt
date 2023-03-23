@@ -1,0 +1,15 @@
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ProjectSample\AtmApplication\bin\Debug\net7.0\AtmApplication.exe
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ProjectSample\AtmApplication\bin\Debug\net7.0\AtmApplication.deps.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ProjectSample\AtmApplication\bin\Debug\net7.0\AtmApplication.runtimeconfig.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ProjectSample\AtmApplication\bin\Debug\net7.0\AtmApplication.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ProjectSample\AtmApplication\bin\Debug\net7.0\AtmApplication.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ProjectSample\AtmApplication\obj\Debug\net7.0\AtmApplication.csproj.AssemblyReference.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ProjectSample\AtmApplication\obj\Debug\net7.0\AtmApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ProjectSample\AtmApplication\obj\Debug\net7.0\AtmApplication.AssemblyInfoInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ProjectSample\AtmApplication\obj\Debug\net7.0\AtmApplication.AssemblyInfo.cs
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ProjectSample\AtmApplication\obj\Debug\net7.0\AtmApplication.csproj.CoreCompileInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ProjectSample\AtmApplication\obj\Debug\net7.0\AtmApplication.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ProjectSample\AtmApplication\obj\Debug\net7.0\refint\AtmApplication.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ProjectSample\AtmApplication\obj\Debug\net7.0\AtmApplication.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ProjectSample\AtmApplication\obj\Debug\net7.0\AtmApplication.genruntimeconfig.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\ProjectSample\AtmApplication\obj\Debug\net7.0\ref\AtmApplication.dll
